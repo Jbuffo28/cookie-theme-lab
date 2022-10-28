@@ -1,5 +1,6 @@
 const router = require("Express").Router()
 
+
 document.getElementById(darkMode).addEventListener("click", changeMode.body.darkMode){
     fetch ("/dark-mode", (req, res) => {
         getElementById(darkMode)
